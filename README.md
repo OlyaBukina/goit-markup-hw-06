@@ -1,1 +1,2 @@
-# goit-markup-hw-06
+# Full Stack Developer course
+## Homework Week 6
