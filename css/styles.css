@@ -665,6 +665,7 @@ img {
   margin: 10px auto 30px;
 }
 .policy-input {
+  position: absolute;
   appearance: none;
   margin-right: 8px;
 }
